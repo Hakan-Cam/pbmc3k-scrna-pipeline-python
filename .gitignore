@@ -1,0 +1,13 @@
+# Raw data — the matrix triplet (can be re-downloaded)
+data/raw/*
+data/processed/*.h5ad
+*.tar.gz
+*.tgz
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# Scanpy read-cache and auto-saved figures
+cache/
+figures/
